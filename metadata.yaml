@@ -1,0 +1,27 @@
+_repo: A-Portrait-of-Old-George-Town_27716
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27716-h/images/insidecover-high.jpg
+creator:
+  author:
+    agent_name: Peter, Grace Dunlop
+    alias: Ecker, Grace Dunlop
+    gutenberg_agent_id: '32862'
+    url: http://www.gutenberg.org/2009/agents/32862
+description: ''
+gutenberg_issued: '2009-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27716'
+  lccn: '52021269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Georgetown (Washington, D.C.) -- History'
+- !lcsh 'Georgetown (Washington, D.C.) -- Description and travel'
+title: A Portrait of Old George Town
+url: http://www.gutenberg.org/ebooks/27716
